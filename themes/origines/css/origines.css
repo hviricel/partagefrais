@@ -1,0 +1,42 @@
+/*
+Name: Origines WordPress Theme
+GitHub URI: https://github.com/haroldparis/origines
+Description: Origines Specific CSS
+Author: Harold Paris
+Twitter: @haroldparis
+Author website: http://www.tribeleadr.com/
+*/
+
+body {
+	padding: 60px 0 20px 0;
+}
+
+.alignright {
+	float: right;
+	margin-left: 10px;
+}
+
+.alignleft {
+  	float: left;
+  	margin-right: 10px;
+}
+
+.aligncenter {
+	text-align: center;
+}
+
+body.admin-bar .navbar-fixed-top { 
+	top: 28px; 
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.o-thumbnail {
+	margin-bottom: 10px;
+}
+
+#o-author-info, #o-category-info, #o-tag-info {
+	margin-bottom: 30px;
+}
