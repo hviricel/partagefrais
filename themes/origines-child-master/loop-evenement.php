@@ -25,7 +25,9 @@
 
 				<?php the_content(); ?>
 				
-				<?php the_meta(); ?>		
+				<?php the_meta(); ?>
+
+                <?php echo "test"; ?>
 
 			</div> <!-- /#o-content -->
 
