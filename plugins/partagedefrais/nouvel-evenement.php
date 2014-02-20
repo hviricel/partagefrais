@@ -7,7 +7,7 @@
 
             <div id="o-main" class="span9">
 
-                <?php echo "test"; ?>
+                <?php echo "test hugo"; ?>
 
             </div><!-- /#o-main -->
 
