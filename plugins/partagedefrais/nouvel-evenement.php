@@ -1,3 +1,15 @@
+<?php
+/**
+ *Template Name: Form create event
+ *
+ * Name: Origines WordPress Theme
+ * GitHub URI: https://github.com/haroldparis/origines
+ * Description: Origines template for pages with left-sidebar.
+ * Author: Harold Paris
+ * Twitter: @haroldparis
+ * Author website: http://www.tribeleadr.com/
+ */
+?>
 
 <?php get_header(); ?>
 
